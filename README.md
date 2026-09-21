@@ -5,6 +5,10 @@ JavaScript. I'd rather ship something with three dependencies that I understand
 than thirty that I don't, and I try to write READMEs that explain how the thing
 works instead of just what it is.
 
+I work with Claude Code day to day. I decide what gets built and how it should
+behave, it does a lot of the typing, and I test, review and fix what comes
+back.
+
 ## Projects
 
 [FishCast](https://github.com/Chris-db/FishCast) scores fishing conditions for
