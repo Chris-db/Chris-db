@@ -25,4 +25,9 @@ tests, so all of it runs without the game.
 long video and burns in word-by-word highlighted captions, all on your own PC
 with ffmpeg and faster-whisper. No subscription, no watermark, no upload.
 
+I also run a Rocket League 6mans Discord bot (TypeScript, discord.js,
+SQLite) that's live on two servers. It deploys itself from a Raspberry Pi I
+set up and run over SSH, with a systemd service, a deploy timer and heartbeat
+monitoring. The source is private for now.
+
 Looking for a junior developer role.
