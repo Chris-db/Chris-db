@@ -1,0 +1,24 @@
+# Chris de Beer
+
+I build small tools that fix one specific annoyance, mostly in Python and plain
+JavaScript. I'd rather ship something with three dependencies that I understand
+than thirty that I don't, and I try to write READMEs that explain how the thing
+works instead of just what it is.
+
+## Projects
+
+[FishCast](https://github.com/Chris-db/FishCast) scores fishing conditions for
+any spot on Earth, block by block through the day, from solunar periods,
+pressure trend, tide and weather. It's a static PWA with no build step and no
+API keys. [Try it live.](https://chris-db.github.io/FishCast/)
+
+[Rocket League Stats Suite](https://github.com/Chris-db/rl-stats-suite) reads
+the game's local WebSocket and turns it into a match tracker, OBS stream alerts
+and an automatic goal highlight editor. It ships a mock game server and 81
+tests, so all of it runs without the game.
+
+[Clipper](https://github.com/Chris-db/Clipper) cuts a vertical clip out of a
+long video and burns in word-by-word highlighted captions, all on your own PC
+with ffmpeg and faster-whisper. No subscription, no watermark, no upload.
+
+Looking for a junior developer role.
